@@ -13,12 +13,13 @@
 ### 🎓 Batch: **2024 – 2028**
 | S.No | Project Title              | Domain           | Technologies Used     |
 | --- | -------------------------- | ---------------- | --------------------- |
-| 1 | [Autoforms](https://github.com/drngpit/autoforms) | Automation | ![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript) |
-| 2 | [Obstacles Avoiding Car](https://github.com/drngpit/obstacles-avoiding-car) | IoT | ![C](https://img.shields.io/badge/C-grey?logo=C&logoColor=ffffff) |
+| 1 | [Dynamic Payload Instrumentation and Multi-Language Exploit Framework](https://github.com/Saran-K-07/DPI-MLEF) | Cyber Security | ![Bash](https://img.shields.io/badge/bash-black?logo=gnu-bash) ![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript) ![Python](https://img.shields.io/badge/python-green?logo=python) ![Java](https://img.shields.io/badge/java-blue?logo=openjdk) ![Go](https://img.shields.io/badge/go-black?logo=go)|
+| 2 | [Autoforms](https://github.com/drngpit/autoforms) | Automation | ![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript) |
+| 3 | [Obstacles Avoiding Car](https://github.com/drngpit/obstacles-avoiding-car) | IoT | ![C](https://img.shields.io/badge/C-grey?logo=C&logoColor=ffffff) |
 
 ## Leetcode Tracker
 1. [Batch 2023 - 2027](https://github.com/drngpit/.github/blob/main/profile/2023-2027.md)
 
 2. [Batch 2024 - 2028](https://github.com/drngpit/.github/blob/main/profile/2024-2028.md)
 
-###### Managed by [Saran K](https://github.com/saran-k-07)
+###### Managed by [Saran K](https://sarankanakavel.me)
